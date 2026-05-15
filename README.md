@@ -25,39 +25,6 @@
 
 > 老金的开源知识库，实时更新群二维码：https://my.feishu.cn/wiki/OhQ8wqntFihcI1kWVDlcNdpznFf
 
----
-
-## 📞 联系方式
-
-<div align="center">
-  <img src="images/二维码基础款.png" alt="联系方式" width="600"/>
-  <p><strong>获取更多AI资讯和技术支持</strong></p>
-  <p>
-    👤 <strong>作者：老金</strong> | 🔗 <a href="https://github.com/KimYx0207">GitHub</a> | 🌐 <a href="https://aiking.dev/">aiking.dev</a> | 𝕏 <a href="https://x.com/KimYx0207">老金带你玩AI</a> | 📱 微信公众号：<strong>老金带你玩AI</strong>
-  </p>
-</div>
-
-### ☕ 请我喝杯咖啡
-
-<div align="center">
-  <p><strong>如果这个教程对你有帮助，欢迎打赏支持！</strong></p>
-  <table align="center">
-    <tr>
-      <td align="center">
-        <img src="images/微信.jpg" alt="微信收款码" width="300"/>
-        <br/>
-        <strong>微信支付</strong>
-      </td>
-      <td align="center">
-        <img src="images/支付宝.jpg" alt="支付宝收款码" width="300"/>
-        <br/>
-        <strong>支付宝</strong>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
 
 ## 📖 项目简介
 
